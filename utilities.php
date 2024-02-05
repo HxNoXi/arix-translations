@@ -35,5 +35,5 @@ return [
     'showing' => 'Vises',
     'to' => 'til',
     'of' => 'af',
-    'results' => 'Resultater',
+    'results' => 'resultater.',
 ];
