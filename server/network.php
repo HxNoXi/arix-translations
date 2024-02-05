@@ -1,18 +1,18 @@
 <?php
 
-return[
-    'network' => 'Network',
-    'manage-allocation' => 'Manage allocation',
-    'create-allocation' => 'Create Allocation',
-    'currently-using' => 'You are currently using {{current}} of {{max}} allowed allocations for this server.',
+return [
+    'network' => 'Netværk',
+    'manage-allocation' => 'Administrer tildeling',
+    'create-allocation' => 'Opret tildeling',
+    'currently-using' => 'Du bruger i øjeblikket {{current}} af de tilladte {{max}} tildelinger for denne server.',
 
     'IP' => 'IP',
     'port' => 'Port',
-    'notes' => 'Notes',
-    'primary' => 'Primary',
-    'make-primary' => 'Make Primary',
+    'notes' => 'Noter',
+    'primary' => 'Primær',
+    'make-primary' => 'Gør til primær',
 
-    'remove-allocation' => 'Remove Allocation',
-    'remove-allocation-description' => 'This allocation will be immediately removed from your server.',
-    'delete' => 'Delete'
+    'remove-allocation' => 'Fjern Tildeling',
+    'remove-allocation-description' => 'Denne tildeling fjernes øjeblikkeligt fra din server.',
+    'delete' => 'Slet',
 ];

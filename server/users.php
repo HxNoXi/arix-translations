@@ -1,32 +1,32 @@
 <?php
 
 return [
-    'title' => 'Users',
-    'manage-subusers' => 'Manage subusers',
-    'new-user' => 'New user',
+    'title' => 'Brugere',
+    'manage-subusers' => 'Administrer underbrugere',
+    'new-user' => 'Ny bruger',
 
-    'no-users' => 'It looks like you don\'t have any subusers.',
+    'no-users' => 'Det ser ud til, at du ikke har nogen underbrugere.',
 
-    'name' => 'Name',
+    'name' => 'Navn',
     'email' => 'Email',
-    '2FA-enabled' => '2FA Enabled',
-    'creation-date' => 'Creation date',
-    'modify-permissions' => 'Modify permissions',
+    '2FA-enabled' => '2FA aktiveret',
+    'creation-date' => 'Oprettelsesdato',
+    'modify-permissions' => 'Ændre tilladelser',
 
-    'user-email' => 'User Email',
-    'user-email-description' => 'Enter the email address of the user you wish to invite as a subuser for this server.',
+    'user-email' => 'Bruger Email',
+    'user-email-description' => 'Indtast emailadressen for den bruger, du vil invitere som en underbruger for denne server.',
 
-    'modify-permissions-for' => 'Modify permissions for',
-    'view-permissions-for' => 'View permissions for',
-    'create-new-subuser' => 'Create new subuser',
-    'must-not-exceed' => 'Email addresses must not exceed 191 characters.',
-    'valid-email' => 'A valid email address must be provided.',
-    'save' => 'Save',
-    'invite-user' => 'Invite User',
+    'modify-permissions-for' => 'Ændre tilladelser for',
+    'view-permissions-for' => 'Se tilladelser for',
+    'create-new-subuser' => 'Opret ny underbruger',
+    'must-not-exceed' => 'Emailadresser må ikke overstige 191 tegn.',
+    'valid-email' => 'Der skal angives en gyldig emailadresse.',
+    'save' => 'Gem',
+    'invite-user' => 'Inviter bruger',
 
-    'only-permissions-you-assigned' => 'Only permissions which your account is currently assigned may be selected when creating or modifying other users.',
+    'only-permissions-you-assigned' => 'Kun tilladelser, som din konto i øjeblikket har tildelt, kan vælges ved oprettelse eller ændring af andre brugere.',
 
-    'delete-this-subuser' => 'Delete this subuser?',
-    'yes-remove' => 'Yes, remove subuser',
-    'are-you-sure-to-remove' => 'Are you sure you wish to remove this subuser? They will have all access to this server revoked immediately.'
+    'delete-this-subuser' => 'Slet denne underbruger?',
+    'yes-remove' => 'Ja, fjern underbruger',
+    'are-you-sure-to-remove' => 'Er du sikker på, at du vil fjerne denne underbruger? De vil straks få inddraget al adgang til denne server.',
 ];
