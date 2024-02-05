@@ -42,7 +42,7 @@ return [
         'delete' => 'Slet'
     ],
     'edit' => [
-        'title' => 'Rediger planlægning',
+        'title-1' => 'Rediger planlægning',
         'title-2' => 'Opret ny planlægning',
 
         'description' => 'Planlægningssystemet understøtter brugen af Cronjob-syntaks til at definere, hvornår opgaver skal begynde at køre. Brug felterne ovenfor til at specificere, hvornår disse opgaver skal begynde at køre.',
