@@ -88,7 +88,7 @@ return [
         'start-server' => 'Start serveren',
         'stop-server' => 'Stop serveren',
         'restart-server' => 'Genstart serveren',
-        'kill-server' => 'Afslut serveren',
+        'kill-server' => 'Dræb serveren',
         'continue-on-failure' => 'Fortsæt ved fejl',
         'continue-on-failure-description' => 'Fremtidige opgaver køres, når denne opgave mislykkes.',
     ],
