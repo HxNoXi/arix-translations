@@ -3,7 +3,7 @@
 return[
     'backups' => 'Sikkerhedskopier',
     'manage-backups' => 'Administrer sikkerhedskopier',
-    'Create-backup' => 'Opret backup',
+    'create-backup' => 'Opret backup',
     'have-been-allocated' => '{{current}} ud af {{max}} backups er oprettet for denne server.',
 
     'name' => 'Navn',
@@ -16,7 +16,7 @@ return[
 
     'download' => 'Hent',
     'restore' => 'Gendan',
-    'lock' => 'Låse',
+    'lock' => 'Lås',
     'unlock' => 'Lås op',
     'delete' => 'Slet',
 
