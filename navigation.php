@@ -25,7 +25,7 @@ return [
     'admin-view' => 'Administrere',
 
     'general' => 'Generel',
-    'management' => 'Manage',
+    'management' => 'Kontroller',
     'configuration' => 'Konfiguration',
 
     'account-overview' => 'Kontooversigt',
